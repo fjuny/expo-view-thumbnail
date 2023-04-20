@@ -13,11 +13,13 @@
     "@config-plugins/react-native-pdf": "^5.0.0",
     "expo": "~48.0.10",
     "expo-dev-client": "~2.1.6",
+    "expo-document-picker": "~11.2.2",
     "expo-status-bar": "~1.4.4",
     "fbjs": "^3.0.4",
     "react": "18.2.0",
     "react-native": "0.71.6",
     "react-native-blob-util": "^0.17.3",
+    "react-native-document-picker": "^8.2.0",
     "react-native-pdf": "^6.6.2"
   },
   "devDependencies": {
